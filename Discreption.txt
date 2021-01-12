@@ -1,0 +1,1 @@
+In this project process From data on real-time as user enter or select any option of given form, pass the value in URL and show the option in another section. In this project we will create Stateful component and this example gives an idea how onChange even works in React JS.
